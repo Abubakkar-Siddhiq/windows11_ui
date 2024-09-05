@@ -1,8 +1,7 @@
-# React + Vite
+# 🪟 Windows 11 UI made 🥣 using ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+So far,
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/cd59b169-7a68-449a-97e3-7334500aab98)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'll update when I get time.. Wee bit busy lately :(
